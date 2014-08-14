@@ -1,6 +1,8 @@
 # lang-gen
 
-FIXME: description
+This is work in progress.
+
+An attempt to evaluate simplenlg and experiment with its features.
 
 ## Installation
 
