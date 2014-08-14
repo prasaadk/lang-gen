@@ -2,7 +2,7 @@
 
 This is work in progress.
 
-An attempt to evaluate simplenlg and experiment with its features.
+An attempt to evaluate [simplenlg](https://github.com/delver/simplenlg) and experiment with its features.
 
 ## Installation
 
