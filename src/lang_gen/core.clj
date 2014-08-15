@@ -51,5 +51,5 @@
 
 (print (generateStatementWithComplement "Mary" "love" "cat" Tense/PRESENT "a lot" "and a little more" "to be honest") "\n")
 
-
+(print (nlp/chunker (nlp/pos-tag (nlp/tokenize "Who does mary love?"))))
 
